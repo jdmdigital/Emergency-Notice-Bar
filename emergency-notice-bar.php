@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Emergency Notice Bar
- * Plugin URI:	https://github.com/jdmdigital/
+ * Plugin URI:	https://github.com/jdmdigital/Emergency-Notice-Bar
  * Description: Super-lightweight plugin adds an emergency notice bar for closures, updates, and more on your WordPress site globally, or only on the home page with just a few clicks.
  * Version:     1.0
  * Author:      JDM Digital
