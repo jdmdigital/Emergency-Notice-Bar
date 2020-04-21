@@ -11,6 +11,8 @@ Use it over and over again.  Just "Hide" it, reconfigure the background color an
 ## Plugin Options
 We tried to keep things as simple as possible, but still flexible for many different uses, like Coronavirus notifications, as well as other simple notifications to users. Options for displaying the plugin include:
 
+![Emergency Notice Bar Plugin Options](https://github.com/jdmdigital/Emergency-Notice-Bar/blob/master/screenshot-1.JPG)
+
 1. Shown/Hidden
 1. Home Page Only or Site-Wide
 1. Rich Content (WYSIWYG Editor)
