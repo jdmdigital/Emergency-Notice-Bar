@@ -2,8 +2,6 @@
  * Emergency Notice Bar CSS (unminified)
  * v1.0
  */
-.jdm-notice-on {}
-
 .jdm-notice-background {
 	position: absolute;
 	top: 0;
@@ -40,6 +38,7 @@
 	padding: 1.2em 20px;
 	color:rgba(255,255,255,0.75);
 	transition:color 0.2s;
+	font-size: 18px;
 }
 .jdm-notice-content a{
 	color:rgba(255,255,255,0.9);
@@ -63,7 +62,7 @@
 	position: absolute;
 	top: 0;
 	right: 0;
-	font-size: 3rem;
+	font-size: 26px;
 	line-height: 1;
 	padding: 20px;
 	color: inherit;
@@ -173,7 +172,6 @@
 .animated.jdm-notice-background.duration-3{
 	animation-duration: 4s;
 }
-
 .screenreader {
     position: absolute !important; /* Outside the DOM flow */
     height: 1px; width: 1px; /* Nearly collapsed */
